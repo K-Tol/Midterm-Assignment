@@ -1,6 +1,6 @@
 ## Koleen Tolentino's Midterm Assignemnt
 
-# git## git merge <branch-name>
+# git merge <branch-name>
 ```bash
 git merge <branch-name>
 ```
